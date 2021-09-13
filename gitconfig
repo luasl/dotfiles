@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luanda.leitao@gmail.com
+	name = Luanda Leitao
